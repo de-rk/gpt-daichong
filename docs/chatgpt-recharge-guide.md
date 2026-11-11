@@ -41,6 +41,10 @@ Plus 为20美元/月；Pro 当前列有100、200、500美元/月档位。先根�
 
 推荐使用 [ProdClub](https://prodclub.ai/r/UHHM8Z?src=github)，它是独立安全的第三方服务平台，与 OpenAI、Anthropic 官方订阅入口不同。
 
+![ProdClub 资源大厅：ChatGPT Plus/Pro 各档位实时报价，支持支付宝与 USDT 付款](../assets/images/prodclub-home.png)
+
+![ProdClub 下单页示意：不用注册，留个邮箱提交订单，扫码付款后自动交付](../assets/images/sms-order-email.png)
+
 ## 付款前后要检查什么？
 
 - 不把密码、验证码、Cookie、Session Token 或 API Key 发给客服或不可信页面。
