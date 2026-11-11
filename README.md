@@ -4,7 +4,7 @@
 
 > **安全提示：** 第三方充值服务可能需要额外的账号授权信息，请充分了解其安全风险，不要向任何不可信第三方提供密码、验证码、Cookie、Session Token 或 API Key。
 
-> 本文更新于 2026 年 10 月 29 日。**如果你对有帮助的话，希望给一个小⭐️⭐️支持一下，本教程持续更新**。
+> 本文更新于 2026 年 11 月 11 日。**如果你对有帮助的话，希望给一个小⭐️⭐️支持一下，本教程持续更新**。
 
 OpenAI 目前已经恢复 GPT Pro 订阅，不过套餐额度由此前的 20X 减半调整为 10X。
 
@@ -37,7 +37,7 @@ OpenAI 目前已经恢复 GPT Pro 订阅，不过套餐额度由此前的 20X �
 
 代充网站的基本流程是：使用人民币购买 ChatGPT Plus/Pro（5X/10X）充值服务，支付后平台自动交付，会员直接开通到你的 ChatGPT 账号，全程不用换绑、不用共享，只需要交一次 Session 即可自动开通。
 
-这里推荐一个我一直在用的代充平台 [ProdClub](https://prodclub.xyz/r/UHHM8Z?src=github)，支持支付宝、USDT（BEP20/TRC20）付款。
+这里推荐一个我一直在用的代充平台 [ProdClub](https://prodclub.ai/r/UHHM8Z?src=github)，支持支付宝、USDT（BEP20/TRC20）付款。
 
 而且有质保，如果掉会员了，他们会按剩余天数赔偿或协助重新充值会员。
 
@@ -45,7 +45,7 @@ OpenAI 目前已经恢复 GPT Pro 订阅，不过套餐额度由此前的 20X �
 
 ![ProdClub 平台首页，资源大厅可以看到各档位实时报价](./assets/images/prodclub-home.png)
 
-👉 **[进入 ProdClub 充值 ChatGPT Plus/Pro](https://prodclub.xyz/r/UHHM8Z?src=github)**
+👉 **[进入 ProdClub 充值 ChatGPT Plus/Pro](https://prodclub.ai/r/UHHM8Z?src=github)**
 
 > 不过这里提示一下，充值 ChatGPT plus 和 注册codex是否需要海外手机验证没关系。即使你是GPT plus，注册 codex一定的概率还是要手机验证的。文末有专门的 **Codex 手机验证 + 长效接码** 章节可以参考。
 
@@ -70,6 +70,7 @@ OpenAI 已发布最新旗舰模型 **GPT-6 Astra**，适用于复杂推理、编
 
 持续复测记录：
 
+- **2026 年 11 月 11 日**：全文第三方服务入口统一为 ProdClub，复查充值、开票与售后页面链接可用。
 - **2026 年 10 月 29 日**：平台报价和接码服务再次复测，方案仍可用。
 - **2026 年 10 月 3 日**：OpenAI 恢复 GPT Pro 订阅；套餐额度由此前的 20X 减半调整为 10X。
 - **2026 年 9 月 8 日**：GPT-6 Astra 发布后更新模型说明；充值购买的仍是 Plus/Pro 会员，具体模型权限以账号实际开放情况为准。
@@ -265,7 +266,7 @@ OpenAI 官方页面长这样——「Phone number required」，要求添加手�
 
 ### 国内没有海外信用卡，怎么充值 ChatGPT Plus/Pro（5X/10X）？
 
-不想折腾虚拟卡或美区 Apple ID，可以选择支持人民币付款的第三方代充平台。本文实际测试的是[前文提到的 ProdClub](https://prodclub.xyz/r/UHHM8Z?src=github)：下单后自动交付开通，会员直接到自己的账号。
+不想折腾虚拟卡或美区 Apple ID，可以选择支持人民币付款的第三方代充平台。本文实际测试的是[前文提到的 ProdClub](https://prodclub.ai/r/UHHM8Z?src=github)：下单后自动交付开通，会员直接到自己的账号。
 
 ### 第三方代充平台可以开发票吗？
 
@@ -300,11 +301,11 @@ OpenAI 官方页面长这样——「Phone number required」，要求添加手�
 
 - 有合规可用的海外支付方式，优先选择官网直付；
 - 苹果用户愿意处理 Apple ID 和礼品卡，可以考虑 App Store；
-- 没有海外卡、不想研究虚拟卡，或需要支付宝付款和公司开票，可以考虑本文实际测试过的[第三方充值服务](https://prodclub.xyz/r/UHHM8Z?src=github)；
+- 没有海外卡、不想研究虚拟卡，或需要支付宝付款和公司开票，可以考虑本文实际测试过的[第三方充值服务](https://prodclub.ai/r/UHHM8Z?src=github)；
 - 注册 Codex 遇到手机验证，可以用长效接码服务解决，记得选短信、一号一账号；
 - 不要使用共享账号处理隐私内容。
 
-👉 **[ChatGPT Plus/Pro 第三方充值入口](https://prodclub.xyz/r/UHHM8Z?src=github)**
+👉 **[ChatGPT Plus/Pro 第三方充值入口](https://prodclub.ai/r/UHHM8Z?src=github)**
 
 ---
 
