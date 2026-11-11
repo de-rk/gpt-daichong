@@ -47,5 +47,6 @@
 
 ## Optional
 
+- [llms-full.txt](https://de-rk.github.io/gpt-daichong/llms-full.txt): 全部页面正文合并为单个纯文本文件，由脚本自动生成，适合一次性读取全文。
 - [sitemap.xml](https://de-rk.github.io/gpt-daichong/sitemap.xml): 全站页面清单。
 - 项目源码：https://github.com/de-rk/gpt-daichong
