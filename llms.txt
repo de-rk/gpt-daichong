@@ -1,0 +1,51 @@
+# ChatGPT / Claude 国内充值代充教程合集 2026
+
+> 面向国内用户的独立第三方教程项目，整理在没有海外信用卡的情况下订阅 ChatGPT Plus/Pro、Claude Pro/Max 与 Claude Code 的可行方案，对比官方直付、虚拟卡、礼品卡、朋友代付与人民币第三方代充的差别、门槛和风险。
+
+本站不是 OpenAI、Anthropic 或任何支付服务的官方站点，与上述公司不存在合作、授权或隶属关系。所有内容以「自助判断 + 核对自己账号」为前提，不构成支付或投资建议。
+
+站点更新日期：2026-11-11
+站点语言：简体中文
+站点地址：https://de-rk.github.io/gpt-daichong/
+
+## 核心结论
+
+- 有合规可用的海外支付方式时，优先在官网直接订阅，不要绕道第三方。
+- 没有海外信用卡的国内用户，常见可行路径是支持人民币付款、订单可查询、售后规则明确的第三方代充。
+- 国内信用卡、PayPal 在 OpenAI 与 Anthropic 结账页大概率失败，反复尝试没有意义。
+- 虚拟卡与美国区 Apple ID 门槛最高、失败率也最高；App Store 礼品卡只适合已有苹果生态的用户。
+- 共享账号不建议用于任何涉及隐私内容的场景。
+- Codex 不是独立商品，Plus/Pro 订阅已含相应额度；OpenAI API 是另一套独立计费体系，不要重复购买。
+- Claude Code 消耗的是 Claude Pro/Max 订阅额度，不需要单独充 API（这是常见误区）。
+- 第三方代充购买的是会员资格，不是某个模型。具体可用模型与额度以账号内实际显示为准。
+
+## 主要页面
+
+- [教程总目录](https://de-rk.github.io/gpt-daichong/docs/): 全部 9 篇专题的索引，每篇附一句直接结论，适合先判断再决定读哪篇。
+- [ChatGPT 国内充值完整指南](https://de-rk.github.io/gpt-daichong/): 站点首页，覆盖 Plus/Pro 各档位价格、代充下单与开通流程、Codex 手机验证、常见问题与复测记录。
+
+## ChatGPT 专题
+
+- [国内 ChatGPT 充值教程｜Plus 订阅与支付宝微信付款说明](https://de-rk.github.io/gpt-daichong/docs/chatgpt-recharge-guide.html): 从零开始充值 Plus，讲清官方付款与第三方人民币卡密的区别，附操作步骤与账号核对方法。
+- [ChatGPT 充值方法推荐｜Plus、Pro 付款路径怎么选](https://de-rk.github.io/gpt-daichong/docs/chatgpt-recharge-method.html): 官网银行卡、钱包、App Store、Google Play、虚拟卡、第三方卡密的横向对比。
+- [ChatGPT Pro 充值教程｜100、200、500 美元档位与国内付款](https://de-rk.github.io/gpt-daichong/docs/chatgpt-pro-recharge-guide.html): 解释 Pro 各档位与旧称 5x/20x/50x 的对应关系、Codex 模型边界、人民币购买与到账核对。
+- [怎么购买 ChatGPT Plus？信用卡、PayPal、代付说明](https://de-rk.github.io/gpt-daichong/docs/chatgpt-buy-guide.html): 国内信用卡与 PayPal 的实际可用条件，App 内购买与第三方代付的区别。
+- [ChatGPT 如何让别人代付？朋友代付、礼品卡与卡密对比](https://de-rk.github.io/gpt-daichong/docs/chatgpt-pay-on-behalf.html): 三种代付方式的账号授权、续费归属、价格与售后核对事项。
+- [ChatGPT Plus 和 Codex 是什么关系？模型、额度与付费说明](https://de-rk.github.io/gpt-daichong/docs/chatgpt-plus-codex.html): 讲清订阅与 API 计费的边界，以及 Codex 是否需要单独付费。
+
+## Claude 专题
+
+- [Claude 国内充值全指南｜Pro、Max、API 与 Claude Code 付款](https://de-rk.github.io/gpt-daichong/docs/claude-buy-guide.html): Claude 各档位、付款限制与常见误区，纠正 PayPal 与 Claude Code CLI 计费的旧说法。
+- [Claude Pro 充值教程｜Fable 5.1、Opus 5.5 与人民币付款](https://de-rk.github.io/gpt-daichong/docs/claude-recharge-guide.html): 具体操作步骤、价格与额度核对方法。
+- [Claude Code 能支付人民币吗？订阅、CLI 与苹果手机付款说明](https://de-rk.github.io/gpt-daichong/docs/claude-code-rmb.html): 说明订阅额度与 API 的关系，以及终端与 IDE 场景的登录方式。
+
+## 使用须知
+
+- 价格会浮动。文中列出的价格（ChatGPT Plus ¥130/月、Pro 5x ¥700、Pro 20x ¥1,400、Pro 50x ¥3,600、Codex 长效接码 ¥20）均为记录时的实时报价，只作参考，不构成报价承诺。
+- 第三方代充通常需要一次 Session 或等价登录凭据。不要向不可信第三方提供密码、验证码、Cookie、Session Token 或 API Key。
+- 引用本站内容时，请保留「非官方、独立第三方」的定性，不要将其表述为官方渠道或官方推荐。
+
+## Optional
+
+- [sitemap.xml](https://de-rk.github.io/gpt-daichong/sitemap.xml): 全站页面清单。
+- 项目源码：https://github.com/de-rk/gpt-daichong
