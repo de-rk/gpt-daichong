@@ -1,0 +1,15 @@
+# --- Jekyll ---
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+vendor/
+
+# --- macOS ---
+.DS_Store
+.DS_Store?
+
+# --- 工具与本地配置 ---
+.workbuddy/
+*.swp

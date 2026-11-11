@@ -305,3 +305,21 @@ OpenAI 官方页面长这样——「Phone number required」，要求添加手�
 - 不要使用共享账号处理隐私内容。
 
 👉 **[ChatGPT Plus/Pro 第三方充值入口](https://prodclub.xyz/r/UHHM8Z?src=github)**
+
+---
+
+## 相关专题教程
+
+如果上面没解决你的问题，这几篇专题写得更细：
+
+- [国内 ChatGPT 充值教程｜Plus 订阅与支付宝微信付款说明](docs/chatgpt-recharge-guide.md)
+- [ChatGPT 充值方法推荐｜官网、App Store、虚拟卡、卡密怎么选](docs/chatgpt-recharge-method.md)
+- [ChatGPT Pro 充值教程｜100、200、500 美元档位与国内付款](docs/chatgpt-pro-recharge-guide.md)
+- [怎么购买 ChatGPT Plus？信用卡、PayPal、代付说明](docs/chatgpt-buy-guide.md)
+- [ChatGPT 如何让别人代付？朋友代付、礼品卡与卡密对比](docs/chatgpt-pay-on-behalf.md)
+- [ChatGPT Plus 和 Codex 是什么关系？](docs/chatgpt-plus-codex.md)
+- [Claude 国内充值全指南｜Pro、Max、API 与 Claude Code 付款](docs/claude-buy-guide.md)
+- [Claude Pro 充值教程｜Fable 5.1、Opus 5.5 与人民币付款](docs/claude-recharge-guide.md)
+- [Claude Code 能支付人民币吗？](docs/claude-code-rmb.md)
+
+完整目录见 [教程总目录](docs/index.md)。

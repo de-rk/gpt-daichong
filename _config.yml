@@ -1,8 +1,9 @@
 title: ChatGPT / Claude 国内充值代充教程合集 2026
 description: 国内订阅 ChatGPT Plus、Claude Pro、Claude Code 的方案整理，包含海外卡、礼品卡与第三方充值方式对比。
-url: https://youngyangyang04.github.io
+url: https://de-rk.github.io
 baseurl: /gpt-daichong
 lang: zh-CN
+timezone: Asia/Shanghai
 
 plugins:
   - jekyll-seo-tag
@@ -20,3 +21,5 @@ defaults:
 
 exclude:
   - README_dev.md
+  - .gitignore
+  - .workbuddy
